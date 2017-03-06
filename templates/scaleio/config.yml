@@ -2,4 +2,4 @@ name: ScaleIO NAS/DAS Store
 description: |
     ScaleIO NAS/DAS Store
 version: v0.1
-category: External Services
+category: Storage

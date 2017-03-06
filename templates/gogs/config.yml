@@ -2,4 +2,4 @@ name: Gogs
 description: |
     A painless self-hosted Git service
 version: v0.8.43
-category: Git
+category: Source Control

@@ -2,6 +2,6 @@ name: Concrete5
 description: |
     Concrete5.7 CMS for buidling easy and beautiful websites
 version: v0.2
-category: CMS
+category: Content Management
 maintainer: Josh Calder <josh@opensaas.com.au>
 projectURL: http://www.opensaas.com.au
